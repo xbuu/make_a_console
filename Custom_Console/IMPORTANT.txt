@@ -1,0 +1,23 @@
+# Introduction #
+
+Welcome to your personal
+console creator
+
+You can make your own
+console and tune its settings
+to whatever you want it to be
+
+# Commands #
+
+To create commands, you will be listed
+in the start of the program on how to
+make it
+
+# Intro #
+
+For the intro of the panel, you will be offered
+to change it in the start of the program
+
+# Everything #
+
+In the program
